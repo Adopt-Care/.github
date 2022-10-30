@@ -1,7 +1,7 @@
-# Adopt and care :house: :feet:
+# Adopt & care :house: :feet:
 
 <!--toc:start-->
-- [Adopt and care :house: :feet:](#adopt-and-care-house-feet)
+- [Adopt & care :house: :feet:](#adopt-care-house-feet)
   - [Comenzando :rocket:](#comenzando-rocket)
   - [Descripción del proyecto :paw_prints:](#descripción-del-proyecto-pawprints)
   - [Animales a cuidar](#animales-a-cuidar)

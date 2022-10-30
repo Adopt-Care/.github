@@ -31,15 +31,15 @@ Queremos facilitar el proceso de rescate, adopción y seguimiento de las guarder
 
 - Aplicación frontend
 
-  <img src="./html.png" alt="html" width="100"/>
-  <img src="./css-3.png" alt="html" width="100"/>
-  <img src="./js.png" alt="html" width="100"/>
-  <img src="./bootstrap-icon8.png" alt="html" width="100"/>
+  <img src="https://github.com/Adopt-Care/.github/blob/master/profile/html.png?raw=true" alt="html" width="100"/>
+  <img src="https://github.com/Adopt-Care/.github/blob/master/profile/css-3.png?raw=true" alt="html" width="100"/>
+  <img src="https://github.com/Adopt-Care/.github/blob/master/profile/js.png?raw=true" alt="html" width="100"/>
+  <img src="https://github.com/Adopt-Care/.github/blob/master/profile/bootstrap-icon8.png?raw=true" alt="html" width="100"/>
 
 - Aplicación backend
 
-  <img src="./java.png" alt="html" width="100"/>
-  <img src="./mysql.svg" alt="html" width="130"/>
+  <img src="https://github.com/Adopt-Care/.github/blob/master/profile/java.png?raw=true" alt="html" width="100"/>
+  <img src="https://raw.githubusercontent.com/Adopt-Care/.github/b5687716f56223782929be92a6bc46600b2dd272/profile/mysql.svg" alt="html" width="130"/>
 
 ## Contribuidores
 
